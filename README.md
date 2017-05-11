@@ -1,3 +1,3 @@
 # bigfatone.github.io
 
-back to the basics
+revert back to unthemed
