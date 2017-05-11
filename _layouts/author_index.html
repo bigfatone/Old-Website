@@ -1,9 +1,9 @@
----
+<!-- ---
 layout: index
 ---
 {% assign the_author = site.data.authors | where: 'id', page.author %}
 {% for author in the_author %}
-<!-- <div class="authorbox">
+ <div class="authorbox">
     <div class="avatar">
         {% if author.avatar %}
             <img src="{{ site.media_folder | prepend: site.baseurl | replace: '//', '/'}}{{ author.avatar }}" alt="{{ author.id }} avatar">
