@@ -1,3 +1,3 @@
 # bigfatone.github.io
 
-now with twister theme
+revert back to unthemed
