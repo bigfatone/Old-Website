@@ -1,7 +1,7 @@
 name: Lewis Nguyen
 description: UX Designer
 url: https://www.lewisnguyen.design
-baseurl: ./_site/
+baseurl: #
 permalink: /:title/
 paginate: 8
 paginate_path: /page/:num/
