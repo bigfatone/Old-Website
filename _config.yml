@@ -3,16 +3,17 @@
 # Site settings
 title: Lewis Nguyen
 email: email@domain.com
-description: A.
+description: Jekyll Resume is a mega simple resume theme for Jekyll.
 baseurl: ""
-url: "B"
-name: C
-job: D
-location: E
+url: "http://mattcouchman.co.uk/jekyll-resume"
+name: Lewis Nguyen
+job: UX Designer
+location: Orange County, CA
 languages: F
-# twitter_username: mattcouchman
-# github_username:  mattcouchman
-# codepen_username:  mattcouchman
+twitter_username: mattcouchman
+github_username:  mattcouchman
+codepen_username:  mattcouchman
+linkedin_username: lewisnguyenux
 email_address: lewisnguyenux@gmail.com
 
 # Build settings
