@@ -40,7 +40,7 @@ hr.star-primary {
   max-width: 250px;
   margin: 25px auto 30px;
 }
-/*hr.star-light:after,
+hr.star-light:after,
 hr.star-primary:after {
   content: "\f005";
   font-family: FontAwesome;
@@ -49,14 +49,14 @@ hr.star-primary:after {
   top: -0.8em;
   font-size: 2em;
   padding: 0 0.25em;
-}*/
+}
 hr.star-light {
   border-color: white;
 }
-hr.star-light:after {
+/*hr.star-light:after {
   background-color: #18BC9C;
   color: white;
-}
+}*/
 hr.star-primary {
   border-color: #2C3E50;
 }
