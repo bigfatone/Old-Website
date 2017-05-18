@@ -450,8 +450,8 @@ fieldset[disabled] .btn-success.active {
   text-align: center;
 }
 
-.portfolio-modal .modal-content p, h3 {
-  text-align: left;
+.portfolio-modal .modal-content p {
+	text-align: left;
 }
 
 .portfolio-modal .modal-content h2 {
