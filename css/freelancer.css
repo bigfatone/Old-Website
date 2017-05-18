@@ -449,6 +449,10 @@ fieldset[disabled] .btn-success.active {
   padding: 100px 0;
   text-align: center;
 }
+.portfolio-modal .modal-content p, h3 {
+  text-align: left;
+}
+
 .portfolio-modal .modal-content h2 {
   margin: 0;
   font-size: 3em;
