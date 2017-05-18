@@ -449,11 +449,6 @@ fieldset[disabled] .btn-success.active {
   padding: 100px 0;
   text-align: center;
 }
-
-.portfolio-modal .modal-content p {
-	text-align: left;
-}
-
 .portfolio-modal .modal-content h2 {
   margin: 0;
   font-size: 3em;
@@ -502,6 +497,9 @@ fieldset[disabled] .btn-success.active {
 .portfolio-modal .modal-backdrop {
   opacity: 0;
   display: none;
+}
+.modal-body p, h3 {
+	text-align: left;
 }
 #skipnav a {
   padding: 6px;
