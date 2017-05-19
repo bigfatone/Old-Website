@@ -36,7 +36,8 @@ h6 {
   font-weight: 700;
 }
 hr.star-light,
-hr.star-primary {
+hr.star-primary,
+hr.star-bluebg {
   padding: 0;
   border: none;
   border-top: solid 5px;
@@ -45,7 +46,8 @@ hr.star-primary {
   margin: 25px auto 30px;
 }
 hr.star-light:after,
-hr.star-primary:after {
+hr.star-primary:after,
+hr.star-bluebg:after {
   content: "\f005";
   font-family: FontAwesome;
   display: inline-block;
@@ -67,6 +69,13 @@ hr.star-primary {
 hr.star-primary:after {
   background-color: white;
   color: #2C3E50;
+}
+hr.star-bluebg {
+  border-color: white;
+}
+hr.star-bluebg:after {
+  background-color: #2C3E50;
+  color: white;
 }
 .img-centered {
   margin: 0 auto;
@@ -108,7 +117,7 @@ header .intro-text .skills {
   }
 }
 .navbar-custom {
-  background: #2C3E50;
+  background: #233140;
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   text-transform: uppercase;
   font-weight: 700;
@@ -186,7 +195,7 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #18BC9C;
+  background: #2C3E50;
   color: white;
 }
 @media (max-width: 767px) {
@@ -306,6 +315,7 @@ footer h3 {
 }
 footer .footer-above {
   padding-top: 50px;
+  padding-bottom: 25px;
   background-color: #2C3E50;
 }
 footer .footer-col {
