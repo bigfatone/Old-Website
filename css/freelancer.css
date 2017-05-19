@@ -37,7 +37,7 @@ h6 {
 }
 hr.star-light,
 hr.star-primary,
-hr.star-bluebg {
+hr.star-blue {
   padding: 0;
   border: none;
   border-top: solid 5px;
@@ -47,7 +47,7 @@ hr.star-bluebg {
 }
 hr.star-light:after,
 hr.star-primary:after,
-hr.star-bluebg:after {
+hr.star-blue:after {
   content: "\f005";
   font-family: FontAwesome;
   display: inline-block;
@@ -70,10 +70,10 @@ hr.star-primary:after {
   background-color: white;
   color: #2C3E50;
 }
-hr.star-bluebg {
+hr.star-blue {
   border-color: white;
 }
-hr.star-bluebg:after {
+hr.star-blue:after {
   background-color: #2C3E50;
   color: white;
 }
