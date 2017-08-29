@@ -23,7 +23,7 @@ a:hover,
 a:focus,
 a:active,
 a.active {
-  color: #18BC9C;
+  color: #18BC9C; /*2C3E50*/ /*#1A0DAB*/
 }
 h1,
 h2,
@@ -57,33 +57,33 @@ hr.star-blue:after {
   padding: 0 0.25em;
 }
 hr.star-light {
-  border-color: white;
+  border-color: #333333;
 }
 hr.star-light:after {
-  background-color: #18BC9C;
-  color: white;
+  background-color: #FFFFFF;
+  color: #333333;
 }
 hr.star-primary {
-  border-color: #2C3E50;
+  border-color: #333333;
 }
 hr.star-primary:after {
   background-color: white;
-  color: #2C3E50;
+  color: #333333;
 }
 hr.star-blue {
-  border-color: white;
+  border-color: #333333;
 }
 hr.star-blue:after {
-  background-color: #2C3E50;
-  color: white;
+  background-color: #F8F8F9;
+  color: #333333;
 }
 .img-centered {
   margin: 0 auto;
 }
 header {
   text-align: center;
-  background: #18BC9C;
-  color: white;
+  background: #FFFFFF;
+  color: #333333;
 }
 header .container {
   padding-top: 100px;
@@ -195,8 +195,8 @@ section h2 {
   font-size: 3em;
 }
 section.success {
-  background: #2C3E50;
-  color: white;
+  background: #F8F8F9;
+  color: #333333;
 }
 @media (max-width: 767px) {
   section {
