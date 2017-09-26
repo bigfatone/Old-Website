@@ -34,7 +34,16 @@ h6 {
   font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
   /* text-transform: uppercase; */
   font-weight: 700;
+    
 }
+
+h1.sub,
+h2.sub,
+h3.sub {
+	text-align: center;
+	
+}
+
 hr.star-light,
 hr.star-primary,
 hr.star-blue {
