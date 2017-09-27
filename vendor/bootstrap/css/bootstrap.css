@@ -4586,6 +4586,7 @@ button.close {
 }
 
 .modal {
+  -webkit-overflow-scrolling: touch;
   position: fixed;
   top: 0;
   right: 0;
