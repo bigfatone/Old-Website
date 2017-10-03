@@ -8,7 +8,7 @@ body {
   overflow-x: hidden; }
   
 .portfolio-text {	
-text-align: left; }
+  text-align: left; }
 
 p {
   font-size: 20px; }
@@ -37,6 +37,21 @@ h5,
 h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700; }
+
+h2.middle {
+  text-align: inherit;
+}
+  
+.list {
+  margin-left: 20px;		
+}
+
+ul.big {
+  font-size: 20px; }
+
+ul.nobullet {
+  list-style: none;
+}
 
 hr.star-light,
 hr.star-primary {
@@ -73,6 +88,7 @@ hr.star-primary:after {
   background-color: white; }
 
 .img-centered {
+  display: block;
   margin: 0 auto; }
 
 section {
