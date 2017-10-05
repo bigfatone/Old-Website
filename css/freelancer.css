@@ -7,7 +7,7 @@ body {
   font-family: 'Lato', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   overflow-x: hidden; }
   
-.portfolio-text {	
+div.portfolio-text {	
   text-align: left; }
 
 p {
@@ -43,7 +43,7 @@ h2.middle {
 }
   
 .list {
-  margin-left: 20px;		
+  margin-left: 20px;
 }
 
 ul.big {
