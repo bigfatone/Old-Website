@@ -110,7 +110,7 @@
 		  
 <div class="card-columns">
   <div class="card p-3">
-	<a class="portfolio-link" href="#dailyUI" data-toggle="modal">
+	<a class="portfolio-link" href="#dailyUI" data-toggle="modal" onClick="ga('send' , 'event' , 'Portfolio Link Clicked' , 'click' , 'Daily UI Challenges');">
     <img class="card-img-top img-fluid pb-3" src="img/portfolio/dailyui.png" alt="Card image cap">
     <div class="card-block">
       <h4 class="card-title">Daily UI Challenges</h4>
@@ -823,11 +823,6 @@
 
     <!-- Custom scripts for this template -->
     <script src="js/freelancer.min.js"></script>
-	
-	<!-- Script for tracking portfolio link clicks -->
-	<script>
-		ga('send' , 'event' , 'portfolio-link' , 'Portfolio Link Clicked');
-	</script>
 
   </body>
 
