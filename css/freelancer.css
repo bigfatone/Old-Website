@@ -45,8 +45,9 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700; }
 
-h2.middle {
-  text-align: inherit;
+.portfolio-content {
+	padding: 60px 60px;
+	text-align: center;
 }
   
 .list {
@@ -83,7 +84,7 @@ hr.star-light {
   border-color: white; }
 
 hr.star-light:after {
-  color: #0081D5;
+  color: #507191;
   background-color: white;
   border-radius: 50%; }
 
@@ -194,12 +195,8 @@ header.masthead {
   padding-top: 100px;
   padding-bottom: 50px;
   text-align: center;
-  color: white;
-  background: #; /* For browsers that do not support gradients */
-  background: -webkit-linear-gradient(left, #2BD563, #0082D5); /* For Safari 5.1 to 6.0 */
-  background: -o-linear-gradient(right, #2BD563, #0082D5); /* For Opera 11.1 to 12.0 */
-  background: -moz-linear-gradient(right, #2BD563, #0082D5); /* For Firefox 3.6 to 15 */
-  background: linear-gradient(to right, #2BD563, #0082D5); /* Standard syntax */ }
+  background-color: #E5EBF1;
+  }
   
   header.masthead img {
     display: block;
