@@ -50,7 +50,8 @@ h6 {
 } 
   
 .portfolio-content {
-	padding: 60px 60px;
+	padding-top: 60px;
+	padding-bottom: 60px;
 }
 
 .portfolio-content-center {
