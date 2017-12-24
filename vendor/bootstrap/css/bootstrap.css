@@ -108,12 +108,12 @@ hr {
 
 h1, h2, h3, h4, h5, h6 {
   margin-top: 0;
-  margin-bottom: .5rem;
+  margin-bottom: 0.5rem;
 }
 
 p {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 2rem;
 }
 
 abbr[title],
@@ -135,7 +135,7 @@ ol,
 ul,
 dl {
   margin-top: 0;
-  margin-bottom: 1rem;
+  margin-bottom: 0;
 }
 
 ol ol,
@@ -480,6 +480,7 @@ mark,
 
 .list-inline {
   padding-left: 0;
+  padding-bottom: 4rem;
   list-style: none;
 }
 
@@ -599,8 +600,8 @@ pre code {
 .container {
   margin-right: auto;
   margin-left: auto;
-  padding-right: 15px;
-  padding-left: 15px;
+  padding-right: 12px;
+  padding-left: 12px;
   width: 100%;
 }
 
