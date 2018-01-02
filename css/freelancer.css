@@ -46,6 +46,10 @@ h6 {
   font-family: 'Montserrat', 'Helvetica Neue', Helvetica, Arial, sans-serif;
   font-weight: 700; }
   
+.contact-box{
+	background-color: black;
+}
+  
 .btn-margin {
 	margin-bottom: 4rem;
 } 
