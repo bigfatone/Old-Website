@@ -222,7 +222,7 @@ header.masthead {
     display: block;
     text-transform: uppercase; }
   header.masthead .intro-text .skills {
-    font-size: 1.25em;
+    font-size: 1.5em;
     font-weight: 300; }
 
 @media (min-width: 768px) {
@@ -232,7 +232,7 @@ header.masthead {
     header.masthead .intro-text .name {
       font-size: 4.75em; }
     header.masthead .intro-text .skills {
-      font-size: 1.75em; } }
+      font-size: 2em; } }
 
 #portfolio .portfolio-item {
   right: 0;
