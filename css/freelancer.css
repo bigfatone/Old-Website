@@ -112,6 +112,10 @@ hr.star-primary:after {
   color: #212529;
   background-color: white; }
 
+.social-test {
+	display: block;
+}
+  
 .img-centered {
   display: block;
   margin: 0 auto;
@@ -490,11 +494,12 @@ footer {
   font-size: 20px;
   line-height: 45px;
   display: inline-block;
-  width: 50px;
-  height: 50px;
+  height: auto;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
   text-align: center;
   border: 2px solid white;
-  border-radius: 100%; }
+  border-radius: 0.3rem; }
 
 .btn.active,
 .btn:active,
