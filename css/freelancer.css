@@ -80,7 +80,7 @@ ul.nobullet {
 
 hr.star-light,
 hr.star-primary {
-  max-width: 250px;
+  max-width: 500px;
   margin: 25px auto 30px;
   padding: 0;
   text-align: center;
@@ -95,7 +95,7 @@ hr.star-primary:after {
   top: -.8em;
   display: inline-block;
   padding: 0 0.25em;
-  content: '\f005'; }
+  /* content: '\f005'; */ }
 
 hr.star-light {
   border-color: white; }
