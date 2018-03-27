@@ -148,6 +148,11 @@ hr.star-primary:after {
   margin: 0 auto;
  }
 
+.squareIcon {
+  height: 100px;
+  width: 100px;
+}
+
 section {
   padding-top: 9rem;
   padding-bottom: 9rem;
