@@ -1,0 +1,31 @@
+/* add your CSS here */
+
+.bold {
+    font-weight: bold;
+}
+
+.noBullet {
+    list-style: none;
+    padding-left: 0;
+}
+
+.outerBorder {
+    border: solid 1px;
+    border-color: grey;
+    margin-right: auto;
+    margin-left: auto;
+    width: 300px;
+    padding-right: 1em;
+    padding-left: 1em;
+    box-shadow: 5px 5px rgb(230, 230, 230);
+}
+
+.innerBorder {
+    background: white;
+    border: solid 1px;
+    border-color: grey;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
